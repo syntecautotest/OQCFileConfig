@@ -1,1 +1,1 @@
-<FileConfig ProductName="F01-21MA-E-150-SEP-TOUCH"><Files /></FileConfig>
+<FileConfig ProductName="F01-21MA-E-150-SEP-TOUCH"><Files><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.60.0</Version><Name>WCE7_AM335x_7.60.0.bin</Name><Hash>2ae106883481d82bb36c995de954960a</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.60.0/ARMCE7_Image/WCE7_AM335x_7.60.0.bin</URL></File></Files></FileConfig>
